@@ -1,0 +1,9 @@
+# OSINT Menu - Authorized Keys
+# Format: MACHO_KEY|NAME|EXPIRE_DATE|ROLE
+
+# Your key (Owner - Full Access)
+4909193320159121084|Your Name|unlimited|owner
+
+# يمكنك إضافة مفاتيح أخرى هنا
+# مثال:
+# 1234567890123456789|Friend Name|2025-12-31|vip
