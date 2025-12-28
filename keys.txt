@@ -1,6 +1,4 @@
 # OSINT Menu - Authorized Keys
-Version: 3.245454457843
+# Format: MACHO_KEY|NAME|EXPIRE_DATE|ROLE
 
-4909193320159121084
-
-Signature: c44f6e2d
+4909193320159121084|Owner|unlimited|owner
